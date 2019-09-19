@@ -1,0 +1,217 @@
+model,displ,cyl,trans,drive,fuel,veh_class,smog_rating,city_mpg,hwy_mpg,cmb_mpg,greenhouse_gas_score,smartway
+AUDI A4 Ultra,2.0,4,AMS-7,2WD,Gasoline,small car,3.0,27.0,37.0,31.0,7,Yes
+BMW 328d,2.0,4,SemiAuto-8,2WD,Diesel,small car,3.0,31.0,43.0,36.0,7,Yes
+BUICK Encore,1.4,4,SemiAuto-6,2WD,Gasoline,small SUV,3.0,27.0,33.0,30.0,7,Yes
+CHEVROLET Cruze,1.4,4,Man-6,2WD,Gasoline,small car,6.0,27.0,40.0,32.0,7,Yes
+CHEVROLET Cruze,1.4,4,SemiAuto-6,2WD,Gasoline,small car,6.0,29.0,40.0,33.0,8,Yes
+CHEVROLET Cruze,1.6,4,Auto-9,2WD,Diesel,small car,3.0,31.0,47.0,37.0,7,Yes
+CHEVROLET Cruze,1.6,4,Man-6,2WD,Diesel,small car,3.0,30.0,52.0,37.0,7,Yes
+CHEVROLET Cruze Hatchback,1.4,4,Man-6,2WD,Gasoline,midsize car,6.0,27.0,38.0,31.0,7,Yes
+CHEVROLET Cruze Hatchback,1.4,4,SemiAuto-6,2WD,Gasoline,midsize car,6.0,29.0,38.0,32.0,7,Yes
+CHEVROLET Cruze Hatchback,1.6,4,Auto-9,2WD,Diesel,midsize car,3.0,30.0,45.0,35.0,7,Yes
+CHEVROLET Cruze Hatchback,1.6,4,Man-6,2WD,Diesel,midsize car,3.0,29.0,48.0,35.0,7,Yes
+CHEVROLET Cruze Premier,1.4,4,SemiAuto-6,2WD,Gasoline,small car,6.0,29.0,39.0,33.0,8,Yes
+CHEVROLET Cruze Premier Hatchback,1.4,4,SemiAuto-6,2WD,Gasoline,midsize car,6.0,28.0,37.0,31.0,7,Yes
+CHEVROLET Malibu,1.5,4,Auto-6,2WD,Gasoline,midsize car,6.0,27.0,36.0,30.0,7,Yes
+CHEVROLET Malibu,1.5,4,Auto-6,2WD,Gasoline,midsize car,7.0,27.0,36.0,30.0,7,Yes
+CHEVROLET Malibu,1.8,4,CVT,2WD,Gasoline,midsize car,3.0,49.0,43.0,46.0,10,Yes
+CHEVROLET Sonic,1.4,4,Man-6,2WD,Gasoline,small car,3.0,28.0,37.0,32.0,7,Yes
+CHEVROLET Sonic,1.4,4,SemiAuto-6,2WD,Gasoline,small car,3.0,27.0,35.0,30.0,7,Yes
+CHEVROLET Sonic 5,1.4,4,Man-6,2WD,Gasoline,station wagon,3.0,28.0,37.0,32.0,7,Yes
+CHEVROLET Sonic 5,1.4,4,SemiAuto-6,2WD,Gasoline,station wagon,3.0,27.0,35.0,30.0,7,Yes
+CHEVROLET Spark,1.4,4,CVT,2WD,Gasoline,small car,5.0,30.0,38.0,33.0,8,Yes
+CHEVROLET Spark,1.4,4,Man-5,2WD,Gasoline,small car,5.0,29.0,39.0,33.0,8,Yes
+CHEVROLET Spark Activ,1.4,4,CVT,2WD,Gasoline,small car,5.0,30.0,37.0,33.0,8,Yes
+CHEVROLET Spark Activ,1.4,4,Man-5,2WD,Gasoline,small car,5.0,29.0,38.0,32.0,7,Yes
+FIAT 124 Spider,1.4,4,Man-6,2WD,Gasoline,small car,3.0,26.0,35.0,30.0,7,Yes
+FIAT 500,1.4,4,Man-5,2WD,Gasoline,small car,3.0,28.0,33.0,30.0,7,Yes
+FIAT 500 Abarth,1.4,4,Man-5,2WD,Gasoline,small car,3.0,28.0,33.0,30.0,7,Yes
+FORD C-MAX Hybrid,2.0,4,CVT,2WD,Gasoline,large car,7.0,42.0,38.0,40.0,9,Yes
+FORD Fiesta,1.6,4,AMS-6,2WD,Gasoline,small car,3.0,27.0,37.0,31.0,7,Yes
+FORD Fiesta,1.6,4,Man-5,2WD,Gasoline,small car,3.0,27.0,35.0,30.0,7,Yes
+FORD Focus,1.0,3,Man-6,2WD,Gasoline,small car,3.0,30.0,40.0,34.0,8,Yes
+FORD Focus,1.0,3,SemiAuto-6,2WD,Gasoline,small car,3.0,27.0,38.0,31.0,7,Yes
+FORD Focus,2.0,4,AutoMan-6,2WD,Gasoline,small car,7.0,26.0,38.0,31.0,7,Yes
+FORD Fusion Hybrid,2.0,4,CVT,2WD,Gasoline,midsize car,7.0,43.0,41.0,42.0,9,Yes
+HONDA Accord,1.5,4,CVT,2WD,Gasoline,large car,7.0,30.0,38.0,33.0,8,Yes
+HONDA Accord,1.5,4,Man-6,2WD,Gasoline,large car,6.0,26.0,35.0,30.0,7,Yes
+HONDA Accord,1.5,4,SCV-7,2WD,Gasoline,large car,7.0,29.0,35.0,31.0,7,Yes
+HONDA Accord,2.0,4,CVT,2WD,Gasoline,large car,7.0,47.0,47.0,47.0,10,Elite
+HONDA CR-V,1.5,4,CVT,2WD,Gasoline,small SUV,5.0,28.0,34.0,30.0,7,Yes
+HONDA Civic 2Dr,1.5,4,CVT,2WD,Gasoline,small car,7.0,31.0,40.0,35.0,8,Yes
+HONDA Civic 2Dr,1.5,4,CVT,2WD,Gasoline,small car,3.0,31.0,40.0,35.0,8,Yes
+HONDA Civic 2Dr,1.5,4,Man-6,2WD,Gasoline,small car,3.0,30.0,41.0,35.0,8,Yes
+HONDA Civic 2Dr,1.5,4,Man-6,2WD,Gasoline,small car,3.0,28.0,38.0,32.0,7,Yes
+HONDA Civic 2Dr,2.0,4,CVT,2WD,Gasoline,small car,7.0,30.0,39.0,34.0,8,Yes
+HONDA Civic 2Dr,2.0,4,CVT,2WD,Gasoline,small car,3.0,30.0,39.0,34.0,8,Yes
+HONDA Civic 2Dr,2.0,4,Man-6,2WD,Gasoline,small car,3.0,28.0,39.0,32.0,7,Yes
+HONDA Civic 4Dr,1.5,4,CVT,2WD,Gasoline,midsize car,7.0,32.0,42.0,36.0,8,Yes
+HONDA Civic 4Dr,1.5,4,CVT,2WD,Gasoline,midsize car,3.0,32.0,42.0,36.0,8,Yes
+HONDA Civic 4Dr,1.5,4,Man-6,2WD,Gasoline,midsize car,3.0,31.0,42.0,35.0,8,Yes
+HONDA Civic 4Dr,1.5,4,Man-6,2WD,Gasoline,midsize car,3.0,28.0,38.0,32.0,7,Yes
+HONDA Civic 4Dr,2.0,4,CVT,2WD,Gasoline,midsize car,7.0,31.0,40.0,34.0,8,Yes
+HONDA Civic 4Dr,2.0,4,CVT,2WD,Gasoline,midsize car,3.0,31.0,40.0,34.0,8,Yes
+HONDA Civic 4Dr,2.0,4,Man-6,2WD,Gasoline,midsize car,3.0,28.0,40.0,32.0,7,Yes
+HONDA Civic 5Dr,1.5,4,CVT,2WD,Gasoline,large car,7.0,31.0,40.0,34.0,8,Yes
+HONDA Civic 5Dr,1.5,4,CVT,2WD,Gasoline,large car,3.0,31.0,40.0,34.0,8,Yes
+HONDA Civic 5Dr,1.5,4,Man-6,2WD,Gasoline,large car,3.0,29.0,38.0,33.0,8,Yes
+HONDA Civic 5Dr,1.5,4,SCV-7,2WD,Gasoline,large car,7.0,30.0,36.0,32.0,7,Yes
+HONDA Civic 5Dr,1.5,4,SCV-7,2WD,Gasoline,large car,3.0,30.0,36.0,32.0,7,Yes
+HONDA Fit,1.5,4,CVT,2WD,Gasoline,station wagon,7.0,33.0,40.0,36.0,8,Yes
+HONDA Fit,1.5,4,Man-6,2WD,Gasoline,station wagon,3.0,29.0,36.0,31.0,7,Yes
+HONDA Fit,1.5,4,SCV-7,2WD,Gasoline,station wagon,7.0,31.0,36.0,33.0,8,Yes
+HONDA HR-V,1.8,4,CVT,2WD,Gasoline,station wagon,3.0,28.0,34.0,31.0,7,Yes
+HONDA HR-V,1.8,4,SCV-7,2WD,Gasoline,station wagon,3.0,28.0,34.0,31.0,7,Yes
+HYUNDAI Accent,1.6,4,Man-6,2WD,Gasoline,small car,3.0,28.0,37.0,31.0,7,Yes
+HYUNDAI Accent,1.6,4,SemiAuto-6,2WD,Gasoline,small car,3.0,28.0,38.0,32.0,7,Yes
+HYUNDAI Elantra,1.4,4,AutoMan-7,2WD,Gasoline,midsize car,3.0,32.0,40.0,35.0,8,Yes
+HYUNDAI Elantra,2.0,4,SemiAuto-6,2WD,Gasoline,midsize car,7.0,28.0,37.0,32.0,7,Yes
+HYUNDAI Elantra,2.0,4,SemiAuto-6,2WD,Gasoline,midsize car,5.0,28.0,37.0,32.0,7,Yes
+HYUNDAI Elantra SE,2.0,4,SemiAuto-6,2WD,Gasoline,midsize car,7.0,29.0,38.0,33.0,8,Yes
+HYUNDAI Elantra SE,2.0,4,SemiAuto-6,2WD,Gasoline,midsize car,5.0,29.0,38.0,33.0,8,Yes
+HYUNDAI Ioniq,1.6,4,AutoMan-6,2WD,Gasoline,large car,7.0,55.0,54.0,55.0,10,Elite
+HYUNDAI Ioniq Blue,1.6,4,AutoMan-6,2WD,Gasoline,large car,7.0,57.0,59.0,58.0,10,Elite
+HYUNDAI Kona,1.6,4,AutoMan-7,2WD,Gasoline,small SUV,5.0,28.0,32.0,30.0,7,Yes
+HYUNDAI Kona,2.0,4,SemiAuto-6,2WD,Gasoline,small SUV,5.0,27.0,33.0,30.0,7,Yes
+HYUNDAI Sonata,1.6,4,AutoMan-7,2WD,Gasoline,large car,5.0,28.0,37.0,31.0,7,Yes
+HYUNDAI Sonata Hybrid,2.0,4,AutoMan-6,2WD,Gasoline,midsize car,7.0,39.0,44.0,41.0,9,Yes
+HYUNDAI Sonata Hybrid SE,2.0,4,AutoMan-6,2WD,Gasoline,midsize car,7.0,40.0,46.0,42.0,9,Yes
+INFINITI Q70 Hybrid,3.5,6,SemiAuto-7,2WD,Gasoline,midsize car,3.0,28.0,33.0,30.0,7,Yes
+KIA Forte,2.0,4,SemiAuto-6,2WD,Gasoline,midsize car,7.0,29.0,37.0,32.0,7,Yes
+KIA Forte,2.0,4,SemiAuto-6,2WD,Gasoline,midsize car,5.0,29.0,37.0,32.0,7,Yes
+KIA Niro,1.6,4,AutoMan-6,2WD,Gasoline,station wagon,7.0,51.0,46.0,49.0,10,Elite
+KIA Niro FE,1.6,4,AutoMan-6,2WD,Gasoline,station wagon,7.0,52.0,49.0,50.0,10,Elite
+KIA Niro Touring,1.6,4,AutoMan-6,2WD,Gasoline,station wagon,7.0,46.0,40.0,43.0,9,Yes
+KIA Optima,1.6,4,AutoMan-7,2WD,Gasoline,large car,3.0,28.0,37.0,31.0,7,Yes
+KIA Optima Hybrid,2.0,4,AutoMan-6,2WD,Gasoline,midsize car,3.0,39.0,46.0,42.0,9,Yes
+KIA Rio,1.6,4,Man-6,2WD,Gasoline,small car,3.0,29.0,37.0,32.0,7,Yes
+KIA Rio,1.6,4,SemiAuto-6,2WD,Gasoline,small car,3.0,28.0,37.0,32.0,7,Yes
+LEXUS ES 300h,2.5,4,SCV-6,2WD,Gasoline,midsize car,7.0,40.0,39.0,40.0,9,Yes
+LEXUS GS 450h,3.5,6,SCV-8,2WD,Gasoline,midsize car,7.0,29.0,34.0,31.0,7,Yes
+LEXUS LC 500h,3.5,6,SCV-10,2WD,Gasoline,small car,7.0,26.0,35.0,30.0,7,Yes
+LEXUS NX 300h,2.5,4,SCV-6,4WD,Gasoline,small SUV,7.0,33.0,30.0,31.0,7,Yes
+LEXUS RX 450h,3.5,6,SCV-6,4WD,Gasoline,standard SUV,7.0,31.0,28.0,30.0,7,Yes
+LINCOLN MKZ Hybrid,2.0,4,CVT,2WD,Gasoline,midsize car,7.0,41.0,38.0,40.0,9,Yes
+MAZDA 2,1.5,4,Man-6,2WD,Gasoline,small car,3.0,30.0,39.0,34.0,8,Yes
+MAZDA 2,1.5,4,SemiAuto-6,2WD,Gasoline,small car,3.0,32.0,40.0,35.0,8,Yes
+MAZDA 3,2.0,4,Man-6,2WD,Gasoline,midsize car,7.0,27.0,37.0,31.0,7,Yes
+MAZDA 3,2.0,4,Man-6,2WD,Gasoline,small car,7.0,28.0,38.0,31.0,7,Yes
+MAZDA 3,2.0,4,SemiAuto-6,2WD,Gasoline,midsize car,7.0,28.0,37.0,32.0,7,Yes
+MAZDA 3,2.0,4,SemiAuto-6,2WD,Gasoline,small car,7.0,28.0,37.0,31.0,7,Yes
+MAZDA 3,2.5,4,SemiAuto-6,2WD,Gasoline,midsize car,7.0,26.0,35.0,30.0,7,Yes
+MAZDA 3,2.5,4,SemiAuto-6,2WD,Gasoline,small car,7.0,27.0,36.0,30.0,7,Yes
+MAZDA CX-3,2.0,4,SemiAuto-6,2WD,Gasoline,small car,3.0,29.0,34.0,31.0,7,Yes
+MINI Cooper Convertible,1.5,3,Man-6,2WD,Gasoline,small car,7.0,28.0,37.0,32.0,7,Yes
+MINI Cooper Convertible,1.5,3,SemiAuto-6,2WD,Gasoline,small car,7.0,27.0,35.0,30.0,7,Yes
+MINI Cooper Hardtop,1.5,3,Man-6,2WD,Gasoline,small car,7.0,28.0,37.0,32.0,7,Yes
+MINI Cooper Hardtop,1.5,3,Man-6,2WD,Gasoline,small car,7.0,28.0,38.0,32.0,7,Yes
+MINI Cooper Hardtop,1.5,3,SemiAuto-6,2WD,Gasoline,small car,7.0,27.0,35.0,30.0,7,Yes
+MITSUBISHI Mirage,1.2,3,CVT,2WD,Gasoline,small car,5.0,37.0,43.0,39.0,9,Yes
+MITSUBISHI Mirage,1.2,3,Man-5,2WD,Gasoline,small car,5.0,33.0,41.0,36.0,8,Yes
+MITSUBISHI Mirage G4,1.2,3,CVT,2WD,Gasoline,small car,5.0,35.0,41.0,37.0,8,Yes
+MITSUBISHI Mirage G4,1.2,3,Man-5,2WD,Gasoline,small car,5.0,33.0,40.0,35.0,8,Yes
+NISSAN Altima,2.5,4,CVT,2WD,Gasoline,midsize car,7.0,27.0,38.0,31.0,7,Yes
+NISSAN Altima SR,2.5,4,SCV-7,2WD,Gasoline,midsize car,7.0,26.0,37.0,30.0,7,Yes
+NISSAN Kicks,1.6,4,CVT,2WD,Gasoline,midsize car,7.0,31.0,36.0,33.0,8,Yes
+NISSAN Rogue Hybrid,2.0,4,SCV-7,2WD,Gasoline,small SUV,3.0,33.0,35.0,34.0,8,Yes
+NISSAN Rogue Hybrid,2.0,4,SCV-7,4WD,Gasoline,small SUV,3.0,31.0,34.0,33.0,8,Yes
+NISSAN Sentra,1.8,4,CVT,2WD,Gasoline,midsize car,7.0,29.0,37.0,32.0,7,Yes
+NISSAN Versa,1.6,4,CVT,2WD,Gasoline,small car,3.0,31.0,39.0,34.0,8,Yes
+NISSAN Versa,1.6,4,CVT,2WD,Gasoline,small car,5.0,31.0,39.0,34.0,8,Yes
+NISSAN Versa,1.6,4,Man-5,2WD,Gasoline,small car,3.0,27.0,36.0,30.0,7,Yes
+NISSAN Versa,1.6,4,Man-5,2WD,Gasoline,small car,5.0,27.0,36.0,30.0,7,Yes
+SUBARU Impreza,2.0,4,SCV-7,4WD,Gasoline,midsize car,7.0,28.0,38.0,32.0,7,Yes
+SUBARU Impreza,2.0,4,SCV-7,4WD,Gasoline,station wagon,7.0,28.0,37.0,31.0,7,Yes
+SUBARU Impreza Sport,2.0,4,SCV-7,4WD,Gasoline,midsize car,7.0,27.0,36.0,30.0,7,Yes
+SUBARU Impreza Sport,2.0,4,SCV-7,4WD,Gasoline,station wagon,7.0,27.0,35.0,30.0,7,Yes
+TOYOTA Avalon Hybrid,2.5,4,SCV-6,2WD,Gasoline,midsize car,7.0,40.0,39.0,40.0,9,Yes
+TOYOTA Camry,2.5,4,SemiAuto-8,2WD,Gasoline,midsize car,7.0,29.0,41.0,34.0,8,Yes
+TOYOTA Camry Hybrid LE,2.5,4,SCV-6,2WD,Gasoline,midsize car,7.0,51.0,53.0,52.0,10,Elite
+TOYOTA Camry Hybrid XLE/SE,2.5,4,SCV-6,2WD,Gasoline,midsize car,7.0,44.0,47.0,46.0,10,Elite
+TOYOTA Camry LE/SE,2.5,4,SemiAuto-8,2WD,Gasoline,midsize car,7.0,28.0,39.0,32.0,7,Yes
+TOYOTA Camry XLE/XSE,2.5,4,SemiAuto-8,2WD,Gasoline,midsize car,7.0,28.0,39.0,32.0,7,Yes
+TOYOTA Corolla,1.8,4,CVT,2WD,Gasoline,midsize car,3.0,28.0,36.0,32.0,7,Yes
+TOYOTA Corolla,1.8,4,Man-6,2WD,Gasoline,midsize car,3.0,27.0,35.0,30.0,7,Yes
+TOYOTA Corolla,1.8,4,SCV-7,2WD,Gasoline,midsize car,3.0,28.0,35.0,31.0,7,Yes
+TOYOTA Corolla LE Eco,1.8,4,CVT,2WD,Gasoline,midsize car,5.0,29.0,38.0,33.0,8,Yes
+TOYOTA Corolla LE Eco,1.8,4,CVT,2WD,Gasoline,midsize car,5.0,30.0,40.0,34.0,8,Yes
+TOYOTA Corolla iM,1.8,4,Man-6,2WD,Gasoline,midsize car,5.0,27.0,35.0,30.0,7,Yes
+TOYOTA Corolla iM,1.8,4,SCV-7,2WD,Gasoline,midsize car,5.0,28.0,36.0,31.0,7,Yes
+TOYOTA Prius,1.8,4,CVT,2WD,Gasoline,midsize car,7.0,54.0,50.0,52.0,10,Elite
+TOYOTA Prius Eco,1.8,4,CVT,2WD,Gasoline,midsize car,7.0,58.0,53.0,56.0,10,Elite
+TOYOTA Prius c,1.5,4,CVT,2WD,Gasoline,small car,7.0,48.0,43.0,46.0,10,Elite
+TOYOTA RAV4 Hybrid,2.5,4,SCV-6,4WD,Gasoline,small SUV,7.0,34.0,30.0,32.0,7,Yes
+TOYOTA Yaris,1.5,4,Auto-4,2WD,Gasoline,small car,3.0,30.0,35.0,32.0,7,Yes
+TOYOTA Yaris,1.5,4,Man-5,2WD,Gasoline,small car,3.0,30.0,36.0,33.0,8,Yes
+TOYOTA Yaris iA,1.5,4,Man-6,2WD,Gasoline,small car,3.0,30.0,39.0,34.0,8,Yes
+TOYOTA Yaris iA,1.5,4,SemiAuto-6,2WD,Gasoline,small car,3.0,32.0,40.0,35.0,8,Yes
+VOLKSWAGEN Jetta,1.4,4,Man-5,2WD,Gasoline,small car,3.0,28.0,40.0,33.0,8,Yes
+VOLKSWAGEN Jetta,1.4,4,SemiAuto-6,2WD,Gasoline,small car,5.0,28.0,38.0,32.0,7,Yes
+AUDI A3 e-tron,1.4,4,AMS-6,2WD,Gasoline,small car,7.0,34.0,39.0,36.0,10,Elite
+BMW 330e,2.0,4,SemiAuto-8,2WD,Gasoline,small car,3.0,28.0,34.0,30.0,10,Yes
+BMW 530e,2.0,4,SemiAuto-8,2WD,Gasoline,small car,7.0,27.0,31.0,29.0,10,Elite
+BMW 530e,2.0,4,SemiAuto-8,4WD,Gasoline,small car,7.0,27.0,31.0,28.0,10,Elite
+BMW 740e,2.0,4,SemiAuto-8,4WD,Gasoline,large car,3.0,25.0,29.0,27.0,9,Yes
+BMW X5 xDrive40e,2.0,4,SemiAuto-8,4WD,Gasoline,standard SUV,3.0,23.0,25.0,24.0,8,Yes
+BMW i3 (94Ah),0.6,2,Auto-1,2WD,Gasoline,small car,7.0,36.0,33.0,35.0,10,Elite
+BMW i3s (94Ah),0.6,2,Auto-1,2WD,Gasoline,small car,7.0,36.0,33.0,35.0,10,Elite
+CADILLAC CT6 Plug-In,2.0,4,CVT,2WD,Gasoline,midsize car,3.0,23.0,29.0,25.0,10,Yes
+CHEVROLET Volt,1.5,4,CVT,2WD,Gasoline,small car,3.0,43.0,42.0,42.0,10,Yes
+CHEVROLET Volt,1.5,4,CVT,2WD,Gasoline,small car,7.0,43.0,42.0,42.0,10,Elite
+CHRYSLER Pacifica Hybrid,3.6,6,CVT,2WD,Gasoline,minivan,7.0,32.0,33.0,32.0,10,Elite
+FORD Fusion Energi Plug-in Hybrid,2.0,4,CVT,2WD,Gasoline,midsize car,7.0,43.0,41.0,42.0,10,Elite
+HONDA Clarity,1.5,4,CVT,2WD,Gasoline,midsize car,8.0,44.0,40.0,42.0,10,Elite
+HYUNDAI Ioniq Plug-in Hybrid,1.6,4,AutoMan-6,2WD,Gasoline,midsize car,7.0,53.0,52.0,52.0,10,Elite
+HYUNDAI Sonata plug-in hybrid,2.0,4,AutoMan-6,2WD,Gasoline,midsize car,7.0,37.0,42.0,39.0,10,Elite
+KIA Niro Plug-in Hybrid,1.6,4,AutoMan-6,2WD,Gasoline,station wagon,7.0,48.0,44.0,46.0,10,Elite
+KIA Optima plug-in hybrid,2.0,4,AutoMan-6,2WD,Gasoline,midsize car,7.0,38.0,43.0,40.0,10,Elite
+MERCEDES-BENZ C350e,2.0,4,Auto-7,2WD,Gasoline,small car,7.0,28.0,32.0,30.0,9,Yes
+MERCEDES-BENZ GLC 350e 4Matic,2.0,4,Auto-7,4WD,Gasoline,small SUV,7.0,24.0,27.0,25.0,9,Yes
+MERCEDES-BENZ GLE550e 4Matic,3.0,6,Auto-7,4WD,Gasoline,standard SUV,6.0,20.0,23.0,21.0,7,Yes
+MINI Cooper SE Countryman All4,1.5,3,SemiAuto-6,4WD,Gasoline,midsize car,3.0,28.0,27.0,27.0,9,Yes
+MITSUBISHI Outlander PHEV,2.0,4,Auto-1,4WD,Gasoline,small SUV,7.0,25.0,26.0,25.0,10,Elite
+PORSCHE Cayenne S e-Hybrid,3.0,6,AutoMan-8,4WD,Gasoline,standard SUV,3.0,21.0,24.0,22.0,8,Yes
+PORSCHE Panamera 4 e-Hybrid,2.9,6,AMS-8,4WD,Gasoline,large car,5.0,20.0,25.0,22.0,8,Yes
+PORSCHE Panamera 4 e-Hybrid Executive,2.9,6,AMS-8,4WD,Gasoline,large car,5.0,20.0,25.0,22.0,8,Yes
+PORSCHE Panamera 4 e-Hybrid ST,2.9,6,AMS-8,4WD,Gasoline,large car,5.0,20.0,25.0,22.0,8,Yes
+PORSCHE Panamera Turbo S e-Hybrid,4.0,8,AMS-8,4WD,Gasoline,large car,3.0,19.0,23.0,21.0,7,Yes
+PORSCHE Panamera Turbo S e-Hybrid Exec,4.0,8,AMS-8,4WD,Gasoline,large car,3.0,19.0,23.0,21.0,7,Yes
+PORSCHE Panamera Turbo S e-Hybrid ST,4.0,8,AMS-8,4WD,Gasoline,large car,3.0,19.0,23.0,21.0,7,Yes
+TOYOTA Prius Prime,1.8,4,CVT,2WD,Gasoline,midsize car,7.0,55.0,53.0,54.0,10,Elite
+VOLVO S90,2.0,4,SemiAuto-8,4WD,Gasoline,midsize car,7.0,26.0,33.0,29.0,10,Elite
+VOLVO XC60,2.0,4,SemiAuto-8,4WD,Gasoline,small SUV,7.0,26.0,28.0,26.0,10,Elite
+VOLVO XC90,2.0,4,SemiAuto-8,4WD,Gasoline,standard SUV,7.0,26.0,30.0,27.0,10,Elite
+AUDI A3 e-tron,1.4,4,AMS-6,2WD,Electricity,small car,7.0,81.0,86.0,83.0,10,Elite
+BMW 330e,2.0,4,SemiAuto-8,2WD,Electricity,small car,3.0,66.0,78.0,71.0,10,Yes
+BMW 530e,2.0,4,SemiAuto-8,2WD,Electricity,small car,7.0,70.0,75.0,72.0,10,Elite
+BMW 530e,2.0,4,SemiAuto-8,4WD,Electricity,small car,7.0,66.0,68.0,67.0,10,Elite
+BMW 740e,2.0,4,SemiAuto-8,4WD,Electricity,large car,3.0,62.0,68.0,64.0,9,Yes
+BMW X5 xDrive40e,2.0,4,SemiAuto-8,4WD,Electricity,standard SUV,3.0,55.0,57.0,56.0,8,Yes
+BMW i3 (94Ah),0.6,2,Auto-1,2WD,Electricity,small car,7.0,117.0,101.0,109.0,10,Elite
+BMW i3s (94Ah),0.6,2,Auto-1,2WD,Electricity,small car,7.0,117.0,101.0,109.0,10,Elite
+CADILLAC CT6 Plug-In,2.0,4,CVT,2WD,Electricity,midsize car,3.0,56.0,71.0,62.0,10,Yes
+CHEVROLET Volt,1.5,4,CVT,2WD,Electricity,small car,3.0,113.0,99.0,106.0,10,Yes
+CHEVROLET Volt,1.5,4,CVT,2WD,Electricity,small car,7.0,113.0,99.0,106.0,10,Elite
+CHRYSLER Pacifica Hybrid,3.6,6,CVT,2WD,Electricity,minivan,7.0,89.0,78.0,84.0,10,Elite
+FORD Fusion Energi Plug-in Hybrid,2.0,4,CVT,2WD,Electricity,midsize car,7.0,102.0,91.0,97.0,10,Elite
+HONDA Clarity,1.5,4,CVT,2WD,Electricity,midsize car,8.0,117.0,102.0,110.0,10,Elite
+HYUNDAI Ioniq Plug-in Hybrid,1.6,4,AutoMan-6,2WD,Electricity,midsize car,7.0,123.0,114.0,119.0,10,Elite
+HYUNDAI Sonata plug-in hybrid,2.0,4,AutoMan-6,2WD,Electricity,midsize car,7.0,99.0,100.0,99.0,10,Elite
+KIA Niro Plug-in Hybrid,1.6,4,AutoMan-6,2WD,Electricity,station wagon,7.0,110.0,99.0,105.0,10,Elite
+KIA Optima plug-in hybrid,2.0,4,AutoMan-6,2WD,Electricity,midsize car,7.0,103.0,104.0,103.0,10,Elite
+MERCEDES-BENZ C350e,2.0,4,Auto-7,2WD,Electricity,small car,7.0,45.0,61.0,51.0,9,Yes
+MERCEDES-BENZ GLC 350e 4Matic,2.0,4,Auto-7,4WD,Electricity,small SUV,7.0,55.0,57.0,56.0,9,Yes
+MERCEDES-BENZ GLE550e 4Matic,3.0,6,Auto-7,4WD,Electricity,standard SUV,6.0,38.0,50.0,43.0,7,Yes
+MINI Cooper SE Countryman All4,1.5,3,SemiAuto-6,4WD,Electricity,midsize car,3.0,63.0,66.0,65.0,9,Yes
+MITSUBISHI Outlander PHEV,2.0,4,Auto-1,4WD,Electricity,small SUV,7.0,78.0,70.0,74.0,10,Elite
+PORSCHE Cayenne S e-Hybrid,3.0,6,AutoMan-8,4WD,Electricity,standard SUV,3.0,47.0,46.0,47.0,8,Yes
+PORSCHE Panamera 4 e-Hybrid,2.9,6,AMS-8,4WD,Electricity,large car,5.0,40.0,57.0,46.0,8,Yes
+PORSCHE Panamera 4 e-Hybrid Executive,2.9,6,AMS-8,4WD,Electricity,large car,5.0,40.0,57.0,46.0,8,Yes
+PORSCHE Panamera 4 e-Hybrid ST,2.9,6,AMS-8,4WD,Electricity,large car,5.0,40.0,57.0,46.0,8,Yes
+PORSCHE Panamera Turbo S e-Hybrid,4.0,8,AMS-8,4WD,Electricity,large car,3.0,48.0,51.0,49.0,7,Yes
+PORSCHE Panamera Turbo S e-Hybrid Exec,4.0,8,AMS-8,4WD,Electricity,large car,3.0,48.0,51.0,49.0,7,Yes
+PORSCHE Panamera Turbo S e-Hybrid ST,4.0,8,AMS-8,4WD,Electricity,large car,3.0,48.0,51.0,49.0,7,Yes
+TOYOTA Prius Prime,1.8,4,CVT,2WD,Electricity,midsize car,7.0,145.0,121.0,133.0,10,Elite
+VOLVO S90,2.0,4,SemiAuto-8,4WD,Electricity,midsize car,7.0,70.0,72.0,71.0,10,Elite
+VOLVO XC60,2.0,4,SemiAuto-8,4WD,Electricity,small SUV,7.0,60.0,58.0,59.0,10,Elite
+VOLVO XC90,2.0,4,SemiAuto-8,4WD,Electricity,standard SUV,7.0,63.0,61.0,62.0,10,Elite
